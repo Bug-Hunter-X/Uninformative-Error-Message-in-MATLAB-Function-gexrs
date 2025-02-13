@@ -1,0 +1,1 @@
+This repository contains a MATLAB function that produces an unhelpful error message.  The `bug.m` file demonstrates the issue, while `bugSolution.m` provides a more informative solution.  The original error message lacks sufficient context, making debugging difficult. The improved version provides details about the input that caused the error, greatly aiding in troubleshooting.
